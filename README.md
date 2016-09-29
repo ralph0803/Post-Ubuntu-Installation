@@ -8,7 +8,7 @@ Unrar & Mcomix
 
 peazip (https://www.linuxbabe.com/ubuntu/install-peazip-ubuntu-16-04)
 
-小小输入法 (https://seisman.info/install-yong-chinese-input-method-under-centos-7.html)
+小小输入法 (https://seisman.info/install-yong-chinese-input-method-under-centos-7.html http://www.pinyinjoe.com/linux/ubuntu-12-chinese-setup.htm)
 
 gdebi (sudo gdebi ANY-DEB-FILE)
 
