@@ -22,3 +22,5 @@ gimp shutter
 
 vivaldi
 
+texlive (sudo apt-get install texlive-full) & texmaker
+
