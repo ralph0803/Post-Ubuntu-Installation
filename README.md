@@ -27,3 +27,5 @@ vivaldi
 texlive (sudo apt-get install texlive-full) & texmaker
 
 youdao词典 (first, libx264-146_0.146.2555+git0c21480-1_amd64.deb (https://launchpad.net/ubuntu/wily/amd64/libx264-146/2:0.146.2555+git0c21480-1) second, gstreamer0.10-plugins-ugly_0.10.19-2.1ubuntu3_amd64.deb (https://launchpad.net/ubuntu/xenial/amd64/gstreamer0.10-plugins-ugly/0.10.19-2.1ubuntu3) finally, youdao-dict_1.1.0-0-ubuntu_amd64.deb)
+
+wine
