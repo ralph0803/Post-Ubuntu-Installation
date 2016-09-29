@@ -1,5 +1,9 @@
 # Post-Ubuntu16.04-Installation
 
+gdebi (sudo gdebi ANY-DEB-FILE)
+
+dropbox (dropbox.com) & mega (mega.co.nz)
+
 Terminator
 
 Powerline (https://fedoramagazine.org/add-power-terminal-powerline/ need to change the path from /bash/ into /bindings/bash/)
@@ -9,8 +13,6 @@ Unrar & Mcomix
 peazip (https://www.linuxbabe.com/ubuntu/install-peazip-ubuntu-16-04)
 
 五笔输入法 (http://www.pinyinjoe.com/linux/ubuntu-12-chinese-setup.htm)
-
-gdebi (sudo gdebi ANY-DEB-FILE)
 
 sublime text 3 (official site & http://appnee.com/sublime-text-3-universal-license-keys-collection-for-win-mac-linux/)
 
