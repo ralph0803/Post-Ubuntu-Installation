@@ -16,3 +16,9 @@ sublime text 3 (official site & http://appnee.com/sublime-text-3-universal-licen
 
 GET Root Permission on GUI operation (Press Alt + F2 to run a command and then enter "gksu nautilus" (using gksu is the recommended way to open GUI's with root permissions). There's a nautilus script that allows you to open a directory as root, look for nautilus-gksu on your repositories.)
 
+vlc smplayer
+
+gimp shutter
+
+vivaldi
+
