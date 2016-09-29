@@ -9,3 +9,10 @@ Unrar & Mcomix
 peazip (https://www.linuxbabe.com/ubuntu/install-peazip-ubuntu-16-04)
 
 小小输入法 (https://seisman.info/install-yong-chinese-input-method-under-centos-7.html)
+
+gdebi (sudo gdebi ANY-DEB-FILE)
+
+sublime text 3 (official site & http://appnee.com/sublime-text-3-universal-license-keys-collection-for-win-mac-linux/)
+
+GET Root Permission on GUI operation (Press Alt + F2 to run a command and then enter "gksu nautilus" (using gksu is the recommended way to open GUI's with root permissions). There's a nautilus script that allows you to open a directory as root, look for nautilus-gksu on your repositories.)
+
