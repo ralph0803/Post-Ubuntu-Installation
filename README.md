@@ -22,7 +22,7 @@ vlc smplayer
 
 gimp shutter
 
-vivaldi
+vivaldi, pepperflash (sudo apt install pepperflashplugin-nonfree https://vivaldi.net/en-US/forum/vivaldi-browser-for-linux/13425-a-way-to-install-pepperflash-in-ubuntu)
 
 texlive (sudo apt-get install texlive-full) & texmaker
 
