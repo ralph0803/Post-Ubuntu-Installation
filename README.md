@@ -44,7 +44,7 @@ Youdao词典 (first, libx264-146_0.146.2555+git0c21480-1_amd64.deb (https://laun
 
 wine
 
-lm-sensors curl hddtemp conky conky-all (http://www.tecmint.com/install-conky-in-ubuntu-debian-fedora/, Set "own_window_type" in the config to "override", background = true.)
+lm-sensors curl hddtemp conky conky-all (http://www.tecmint.com/install-conky-in-ubuntu-debian-fedora/, Set "own_window_type" in the config to "override", background = true. https://linux.cn/article-5474-1.html)
 
 
 
