@@ -48,5 +48,5 @@ wine
 
 lm-sensors curl hddtemp conky conky-all (http://www.tecmint.com/install-conky-in-ubuntu-debian-fedora/, Set "own_window_type" in the config to "override", background = true. https://linux.cn/article-5474-1.html)
 
-爱壁纸 (http://www.lovebizhi.com/linux.html)
+爱壁纸 & Python-support 1.0.15 (https://launchpad.net/ubuntu/xenial/amd64/python-support/1.0.15, http://www.lovebizhi.com/linux.html)
 
