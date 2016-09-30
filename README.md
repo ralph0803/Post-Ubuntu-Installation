@@ -18,7 +18,7 @@ terminator
 
 Powerline (https://fedoramagazine.org/add-power-terminal-powerline/ need to change the path from /bash/ into /bindings/bash/)
 
-p7zip & Unrar & Mcomix
+p7zip & unrar & mcomix
 
 Peazip (https://www.linuxbabe.com/ubuntu/install-peazip-ubuntu-16-04)
 
