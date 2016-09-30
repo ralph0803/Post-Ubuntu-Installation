@@ -10,6 +10,8 @@ dropbox (dropbox.com) & mega (mega.co.nz)
 
 Foxit Reader
 
+aria2 & uget
+
 Terminator
 
 Powerline (https://fedoramagazine.org/add-power-terminal-powerline/ need to change the path from /bash/ into /bindings/bash/)
