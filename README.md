@@ -32,6 +32,10 @@ gimp shutter
 
 vivaldi, pepperflash (sudo apt install pepperflashplugin-nonfree https://vivaldi.net/en-US/forum/vivaldi-browser-for-linux/13425-a-way-to-install-pepperflash-in-ubuntu)
 
+安装flash player on firefox (http://blog.csdn.net/wangyuchun_799/article/details/46995675, alt + F2, 然后输入 gksu nautilus, 可以实现GUI自由复制粘贴文件夹)
+
+flashplugin-installer (sudo apt-get install flashplugin-installer)
+
 texlive (sudo apt-get install texlive-full) & texmaker
 
 youdao词典 (first, libx264-146_0.146.2555+git0c21480-1_amd64.deb (https://launchpad.net/ubuntu/wily/amd64/libx264-146/2:0.146.2555+git0c21480-1) second, gstreamer0.10-plugins-ugly_0.10.19-2.1ubuntu3_amd64.deb (https://launchpad.net/ubuntu/xenial/amd64/gstreamer0.10-plugins-ugly/0.10.19-2.1ubuntu3) finally, youdao-dict_1.1.0-0-ubuntu_amd64.deb)
@@ -41,4 +45,4 @@ wine
 lm-sensors curl hddtemp conky conky-all (http://www.tecmint.com/install-conky-in-ubuntu-debian-fedora/, Set "own_window_type" in the config to "override", background = true.)
 
 
-安装flash player on firefox (http://blog.csdn.net/wangyuchun_799/article/details/46995675, alt + F2, 然后输入 gksu nautilus, 可以实现GUI自由复制粘贴文件夹)
+
