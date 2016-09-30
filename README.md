@@ -36,7 +36,7 @@ youdao词典 (first, libx264-146_0.146.2555+git0c21480-1_amd64.deb (https://laun
 
 wine
 
-lm_sensors curl hddtemp conky conky-all (http://www.tecmint.com/install-conky-in-ubuntu-debian-fedora/, Set "own_window_type" in the config to "override".)
+lm-sensors curl hddtemp conky conky-all (http://www.tecmint.com/install-conky-in-ubuntu-debian-fedora/, Set "own_window_type" in the config to "override".)
 
 
 安装flash player on firefox (http://blog.csdn.net/wangyuchun_799/article/details/46995675, alt + F2, 然后输入 gksu nautilus, 可以实现GUI自由复制粘贴文件夹)
