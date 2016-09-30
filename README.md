@@ -2,6 +2,8 @@
 
 小写为代码直接安装，大写为要看教程安装
 
+Ubuntu 16.04 一系列软件安装命令，包括QQ、搜狗、Chrome、vlc、网易云音乐安装方法 (http://blog.csdn.net/fuchaosz/article/details/51882935)
+
 sudo apt-get update
 
 unity tweak tool (via software center)
@@ -46,5 +48,5 @@ wine
 
 lm-sensors curl hddtemp conky conky-all (http://www.tecmint.com/install-conky-in-ubuntu-debian-fedora/, Set "own_window_type" in the config to "override", background = true. https://linux.cn/article-5474-1.html)
 
-
+爱壁纸 (http://www.lovebizhi.com/linux.html)
 
