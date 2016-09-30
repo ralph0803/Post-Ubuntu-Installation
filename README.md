@@ -2,6 +2,8 @@
 
 sudo apt-get update
 
+unity tweak tool (via software center)
+
 gdebi (这样就能 sudo gdebi ANY-DEB-FILE)
 
 dropbox (dropbox.com) & mega (mega.co.nz)
