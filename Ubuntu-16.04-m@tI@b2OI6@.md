@@ -1,6 +1,7 @@
 参考：
 http://www.ubuntukylin.com/ukylin/forum.php?mod=viewthread&tid=26148
 http://askubuntu.com/questions/763202/matlab-problem-on-ubuntu-16-04
+http://www.cnblogs.com/amboyna/archive/2008/03/08/1096024.html
 
 一、前言
 
@@ -66,6 +67,8 @@ libcufft.so
 再次运行 sudo ./m@tl@b
 
 即可打开m@tl@b R2Ol6@了。
+
+为了方便，要将路径添加到系统变量中去，sudo subl /etc/profile, 添加export PATH="$PATH:/usr/local/M@TL@B/R2Ol6@/bin"
 -------------------------------------------------------------------------------------------------------------------
 安装中遇到的问题，绝大部分都是文件夹及文件权限问题，很容易解决。
 ---------------------------------------------------------------------------------------------------------------------
