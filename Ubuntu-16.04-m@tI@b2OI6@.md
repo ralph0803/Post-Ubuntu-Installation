@@ -15,12 +15,13 @@ sudo mkdir /mnt/temp，用来挂载.iso文件，就跟windows里的虚拟光驱�
 3. cd 到iso所在的路径;
 4. sudo mount -o loop R2Ol6@_g1nx@64.is0 /mnt/temp  把iso挂载到刚建的虚拟光驱中;
 
-下两步可能会出现问题，我出现了并在百度中看见别人也出现了：
+下两步可能会出现问题，我出现了并在百度中看见别人也出现了
 
 5. 安装
 
-$ cd /mnt/temp
-sudo ./install
+  $ cd /mnt/temp
+  sudo ./install
+
 -----------------------------------------------------------------------------
 -------------------------------无视下面的--------------------------------------
 -----------------------------------------------------------------------------
@@ -42,11 +43,11 @@ sudo ./install
 -----------------------------------------------------------------------------
 4、接下来会打开matlab的安装界面(与Windows下一样)，然后输入密钥，在M@TL@B_R2Ol6@_Llnux_Cr@ck里面的FIK.txt里面。然后一直下一步，直到安装完成(大约20min～1h)。
 5、进入
-cd /usr/local/M@TL@B/R20l6a/bin
+  cd /usr/local/M@TL@B/R20l6a/bin
 
 新建“licenses”文件并赋予其权限
-sudo mkdir licenses
-sudo chmod 777 licenses
+  sudo mkdir licenses
+  sudo chmod 777 licenses
 
 6、将linux破解文件夹M@tl@b_R2Ol6@_g1nx@64_cr@ck.zip下的
 M@tl@b_R2Ol6@_g1nx@64.is0.lic
@@ -54,13 +55,13 @@ libmwservices.so
 libcufft.so
 
 分别拷贝到上述新建的”licenses”和”./bin/g1nxa64”下面 
-sudo cp Mat1ab_R2016a_glnxa64.lic /usr/local/M@TL@B/R2Ol6@/bin/licenses 
-sudo cp libmwservices.so /usr/local/M@TL@B/R2Ol6@/bin/g1nx@64 
-sudo cp libcufft.so /usr/local/M@TL@B/R2Ol6@/bin/g1nx@64
+  sudo cp Mat1ab_R2016a_glnxa64.lic /usr/local/M@TL@B/R2Ol6@/bin/licenses 
+  sudo cp libmwservices.so /usr/local/M@TL@B/R2Ol6@/bin/g1nx@64 
+  sudo cp libcufft.so /usr/local/M@TL@B/R2Ol6@/bin/g1nx@64
 
 7、到此为止，在Ubuntu 16.04下安装M@TL@B R2Ol6@就完成了，我们只要从命令行进入m@t1@b R2Ol6@的”bin”目录，输入
-cd /usr/local/M@TL@B/R2Ol6@/bin
-sudo ./m@tl@b
+  cd /usr/local/M@TL@B/R2Ol6@/bin
+  sudo ./m@tl@b
 然后把lic文件按指示再次导入
 再次运行 sudo ./m@tl@b
 
