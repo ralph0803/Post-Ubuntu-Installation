@@ -1,0 +1,30 @@
+Using the new UC Davis VPN on Linux (Pulse Secure)
+The UC Davis Library does not officially support the Linux version of the new (as of 2016) Pulse Secure VPN client. This article expands on the information provided by the Library and gives step-by-step instructions for installation. 
+Note: these instructions are meant to supplement those provided by the UC Davis Library, who manages the VPN (but don't officially support Linux). You can view the Library's information and instructions regarding the VPN here.
+
+These instructions are specifically for Ubuntu 14.04 LTS. Steps may vary slightly for other versions of Linux.
+
+Downloading and Installing the Pulse Secure VPN Client
+Download the VPN installer (.deb) file AND the certificate (.der) file from the library website:
+https://www.lib.ucdavis.edu/ul/services/connect/faq.php#answer-LNX-1
+To install the VPN client, open a terminal, cd to the directory containing the .deb file (such as cd ~/Downloads), and run the following command:
+sudo dpkg -i pulse-8.1R7.i386.deb
+OR
+In Ubuntu you can double-click on the .deb file to open it in Ubuntu Software Center, where you can then click "Install"
+If the installation was successful, if you used the terminal in the above step you should see the following message at the end:
+Setting up pulse (8.1) ...
+Please refer /usr/local/pulse/README for instructions to launch the Pulse Client 
+If you used the graphical method (Ubuntu Software Center in 14.04) the progress bar will simply complete.
+You're now ready to run the actual client. Note that the first time you run the client script (see below) it will require an additional step.
+Running the VPN Client
+To run the client, open a terminal and run the following script with the following arguments:
+/usr/local/pulse/PulseClient.sh -h vpn.library.ucdavis.edu -u yourkerberosID -r Library -f /path/to/vpn.library.ucdavis.edu.der 
+NOTE: Replace "yourkerberosID" with your campus login/Kerberos ID and replace "/path/to/" with the actual path to the certificate file, so for example "~/Downloads/" if you saved it to your downloads folder.
+The first time you run the script, it will do several things, including install packages that it depends on. It needs to run with root privileges to do this; It will prompt for your local computer password first.
+After any additional packages have been installed, it will prompt for your VPN Password. This is your Kerberos Passphrase.
+Once you type in your Kerberos Passphrase and hit enter, the window will appear to hang. This is normal (it will not confirm a correct password-- it will only tell you if you've entered the wrong password).
+Press Ctrl-C if you want to keep using that terminal. The VPN Client will continue running in the background event after pressing Ctrl-C.
+[You're now connected to the VPN, so you can browse or connect to servers within the network.]
+To terminate the VPN client and close the connection, run the following command:
+/usr/local/pulse/PulseClient.sh -K
+Note: useful information about the client can be found in the README, located in /urs/local/pulse/README after installation. 
