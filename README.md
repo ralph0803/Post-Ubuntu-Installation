@@ -51,3 +51,5 @@ lm-sensors curl hddtemp conky conky-all (http://www.tecmint.com/install-conky-in
 爱壁纸 & Python-support 1.0.15 (https://launchpad.net/ubuntu/xenial/amd64/python-support/1.0.15, http://www.lovebizhi.com/linux.html)
 
 xrx7855.ppd (http://www.cornellcollege.edu/information-technology/get-connected/printing-2016/eprint-driver-install.shtml)
+
+mega & dropbox
