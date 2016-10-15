@@ -52,4 +52,6 @@ lm-sensors curl hddtemp conky conky-all (http://www.tecmint.com/install-conky-in
 
 xrx7855.ppd (http://www.cornellcollege.edu/information-technology/get-connected/printing-2016/eprint-driver-install.shtml)
 
-mega & dropbox
+Mega & Dropbox
+
+Franz (Linux下聊天集成平台) (https://gist.github.com/jamiesoncj/756728b3ba7c07d7a90f843400af37bb)
