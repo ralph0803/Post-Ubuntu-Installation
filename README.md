@@ -57,3 +57,5 @@ xrx7855.ppd (http://www.cornellcollege.edu/information-technology/get-connected/
 Franz (Linux下聊天集成平台) (https://gist.github.com/jamiesoncj/756728b3ba7c07d7a90f843400af37bb)
 
 SNES模拟器 (http://www.linuxandubuntu.com/home/how-to-play-your-childhood-nintendo-games-in-linux)
+
+虚拟打印机 cups-pdf (sudo apt-get install cups-pdf 和 sudo chmod 4755 /usr/lib/cups/backend/cups-pdf 和 sudo chmod 700 /usr/lib/cups/backend/cups-pdf 和 sudo chmod 700 /usr/lib/cups/backend/，文件在～/PDF文件夹内)
