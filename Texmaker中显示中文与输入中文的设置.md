@@ -2,8 +2,9 @@
 
     apt-get install texlive 
     apt-get install texlive-xetex 
+    apt-get install texlive-full
 
-即安装texlive后还需安装texlive-xetex,或者直接安装整个texlive-full包(比较大,但包和模板完整)。
+即安装texlive后还需安装texlive-xetex,或者直接安装整个包(比较大,但包和模板完整)。
 
 要编写中文文档时需在在tex文件导言区加入:
 
