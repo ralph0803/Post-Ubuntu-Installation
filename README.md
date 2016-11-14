@@ -34,7 +34,7 @@ vlc smplayer
 
 gimp shutter
 
-vivaldi, pepperflashplugin-nonfree (sudo apt install pepperflashplugin-nonfree https://vivaldi.net/en-US/forum/vivaldi-browser-for-linux/13425-a-way-to-install-pepperflash-in-ubuntu)
+vivaldi, pepperflashplugin-nonfree (sudo apt install pepperflashplugin-nonfree https://vivaldi.net/en-US/forum/vivaldi-browser-for-linux/13425-a-way-to-install-pepperflash-in-ubuntu), chromium-codecs-ffmpeg-extra (播MP4 online) (sudo apt-get install chromium-codecs-ffmpeg-extra http://www.webupd8.org/2016/04/how-to-get-flash-and-h264-to-work-in.html)
 
 安装flash player on firefox (http://blog.csdn.net/wangyuchun_799/article/details/46995675, alt + F2, 然后输入 gksu nautilus, 可以实现GUI自由复制粘贴文件夹)
 
