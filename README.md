@@ -14,6 +14,8 @@ Dropbox (dropbox.com) & Mega (mega.co.nz)
 
 Foxit Reader
 
+Bcloud (https://www.zhihu.com/question/51266530)
+
 aria2 & uget
 
 terminator
