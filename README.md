@@ -44,7 +44,7 @@ texlive (sudo apt-get install texlive-full) & texmaker
 
 Youdao词典 (安装deepin版本即可 youdao-dict_1.1.0-0-deepin_amd64.deb)
 
-Wine (http://sourcedigit.com/19762-install-configure-wine-1-9-11-on-ubuntu-16-04/)
+Wine (http://www.itdadao.com/articles/c15a363861p0.html)
 
 Adobe Reader (http://askubuntu.com/questions/767937/how-to-install-adobe-acrobat-in-ubuntu-16-04)
 
