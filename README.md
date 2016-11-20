@@ -14,6 +14,8 @@ Dropbox (dropbox.com) & Mega (mega.co.nz)
 
 Foxit Reader
 
+Wechat (https://github.com/geeeeeeeeek/electronic-wechat https://fusion809.github.io/howto-install-nodejs/)
+
 Bcloud (https://www.zhihu.com/question/51266530)
 
 aria2 & uget
