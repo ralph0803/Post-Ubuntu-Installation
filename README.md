@@ -62,6 +62,33 @@ Franz (Linux下聊天集成平台) (https://gist.github.com/jamiesoncj/756728b3b
 
 SNES模拟器 (http://www.linuxandubuntu.com/home/how-to-play-your-childhood-nintendo-games-in-linux)
 
+打印机 Brother HL-L2380DW 
+  (
+    Download LPR driver.
+
+  Login as a superuser (or use "sudo" option if required).
+
+  Check if pre-required procedures are completed
+  For Ubuntu
+  For Distributions using firewall
+  GIMP is required for "scan-to-image"
+  brscanX should be installed first
+
+  Install the driver.
+  Open the terminal and go to the directory where the driver is. 
+  Install the scan-key-tool.
+  Command  :  dpkg -i  --force-all  (scan-key-tool filename)
+  Check if the scanner driver is installed.
+  Command  :  dpkg -l  |  grep  Brother
+
+  Run scan-key-tool and try the test scanning.
+  Run scan-key-tool(The program will run as a background process.)  
+  Command  :  brscan-skey 
+  Check if the scan-key-tool detect your scanner device.
+  Command  :  brscan-skey -l
+  Press the scan button, select user, select destination, press START.
+  )
+
 虚拟打印机 cups-pdf (sudo apt-get install cups-pdf 和 sudo chmod 4755 /usr/lib/cups/backend/cups-pdf 和 sudo chmod 700 /usr/lib/cups/backend/cups-pdf 和 sudo chmod 700 /usr/lib/cups/backend/，文件在～/PDF文件夹内)
 
 USB音响 (要调alsamixter，要选digital output，http://www.linuxquestions.org/questions/linux-software-2/usb-speakers-as-default-649705/#post3187306, http://askubuntu.com/questions/523959/how-to-fix-very-low-sound-in-xubuntu-14-04)
