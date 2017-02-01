@@ -91,3 +91,5 @@ SNES模拟器 (http://www.linuxandubuntu.com/home/how-to-play-your-childhood-nin
 虚拟打印机 cups-pdf (sudo apt-get install cups-pdf 和 sudo chmod 4755 /usr/lib/cups/backend/cups-pdf 和 sudo chmod 700 /usr/lib/cups/backend/cups-pdf 和 sudo chmod 700 /usr/lib/cups/backend/，文件在～/PDF文件夹内)
 
 USB音响 (要调alsamixter，要选digital output，http://www.linuxquestions.org/questions/linux-software-2/usb-speakers-as-default-649705/#post3187306, http://askubuntu.com/questions/523959/how-to-fix-very-low-sound-in-xubuntu-14-04)
+
+Dukto R6 不同操作系统互传文件 (http://www.msec.it/blog/?page_id=11)
