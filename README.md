@@ -95,3 +95,6 @@ USB音响 (要调alsamixter，要选digital output，http://www.linuxquestions.o
 Dukto R6 不同操作系统互传文件 (http://www.msec.it/blog/?page_id=11)
 
 PDFSam
+
+小小五笔输入法 (http://yong.dgod.net/)
+
