@@ -93,3 +93,5 @@ SNES模拟器 (http://www.linuxandubuntu.com/home/how-to-play-your-childhood-nin
 USB音响 (要调alsamixter，要选digital output，http://www.linuxquestions.org/questions/linux-software-2/usb-speakers-as-default-649705/#post3187306, http://askubuntu.com/questions/523959/how-to-fix-very-low-sound-in-xubuntu-14-04)
 
 Dukto R6 不同操作系统互传文件 (http://www.msec.it/blog/?page_id=11)
+
+PDFSam
