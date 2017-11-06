@@ -62,7 +62,7 @@ Franz (Linux下聊天集成平台) (https://gist.github.com/jamiesoncj/756728b3b
 
 SNES模拟器 (http://www.linuxandubuntu.com/home/how-to-play-your-childhood-nintendo-games-in-linux)
 
-打印机 Brother HL-L2380DW
+打印机 Brother HL-L2380DW (http://support.brother.com/g/b/downloadhowto.aspx?c=us&lang=en&prod=hll2380dw_us_as&os=128&dlid=dlf006893_000&flang=4&type3=625)
 
     Download LPR driver.
     Login as a superuser (or use "sudo" option if required).
