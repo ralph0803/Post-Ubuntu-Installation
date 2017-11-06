@@ -44,7 +44,7 @@ vivaldi, pepperflashplugin-nonfree (sudo apt install pepperflashplugin-nonfree h
 
 flashplugin-installer (sudo apt-get install flashplugin-installer)
 
-texlive (sudo apt-get install texlive-full) & texmaker
+texlive (sudo apt-get install texlive-full) & texstudio
 
 Youdao词典 (安装deepin版本即可 youdao-dict_1.1.0-0-deepin_amd64.deb)
 
