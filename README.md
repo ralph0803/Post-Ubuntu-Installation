@@ -22,7 +22,7 @@ aria2 & uget
 
 terminator
 
-Powerline (https://fedoramagazine.org/add-power-terminal-powerline/ need to change the path from /bash/ into /bindings/bash/)
+Powerline (https://github.com/b-ryan/powerline-shell need to change the path from /bash/ into /bindings/bash/)
 
 p7zip & unrar & mcomix
 
