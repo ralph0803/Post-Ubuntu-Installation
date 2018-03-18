@@ -22,7 +22,7 @@ aria2 & uget
 
 terminator
 
-Powerline (https://github.com/b-ryan/powerline-shell need to change the path from /bash/ into /bindings/bash/)
+Powerline (https://gist.github.com/renshuki/3cf3de6e7f00fa7e744a, https://github.com/b-ryan/powerline-shell need to change the path from /bash/ into /bindings/bash/)
 
 p7zip & unrar & mcomix
 
