@@ -12,7 +12,7 @@ gdebi (这样就能 sudo gdebi ANY-DEB-FILE)
 
 Dropbox (dropbox.com) & Mega (mega.co.nz)
 
-Foxit Reader
+Foxit Reader (https://www.linuxbabe.com/desktop-linux/install-foxit-pdf-reader-ubuntu-16-04)
 
 Wechat (https://github.com/geeeeeeeeek/electronic-wechat https://fusion809.github.io/howto-install-nodejs/)
 
