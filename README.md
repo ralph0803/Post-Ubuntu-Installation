@@ -98,3 +98,7 @@ PDFSam
 
 小小五笔输入法 (http://yong.dgod.net/)
 
+Vidcutter
+
+gparted
+
