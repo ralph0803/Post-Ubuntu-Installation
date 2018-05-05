@@ -102,3 +102,4 @@ Vidcutter
 
 gparted
 
+GUVCviewer (http://guvcview.sourceforge.net/downloads.html)
