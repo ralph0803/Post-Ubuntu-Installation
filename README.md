@@ -102,4 +102,4 @@ Vidcutter
 
 gparted
 
-GUVCviewer (http://guvcview.sourceforge.net/downloads.html)
+GUVCviewer (http://guvcview.sourceforge.net/downloads.html, http://ubuntuhandbook.org/index.php/2014/03/how-to-change-an-application-icon-in-ubuntu-unity-tips/)
