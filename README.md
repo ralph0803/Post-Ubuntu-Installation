@@ -20,8 +20,6 @@ Bcloud (https://www.zhihu.com/question/51266530)
 
 aria2 & uget
 
-
-
 terminator & Powerline (https://gist.github.com/renshuki/3cf3de6e7f00fa7e744a, https://github.com/b-ryan/powerline-shell need to change the path from /bash/ into /bindings/bash/)
 
 p7zip & unrar & mcomix
@@ -31,6 +29,8 @@ Peazip (https://www.linuxbabe.com/ubuntu/install-peazip-ubuntu-16-04)
 五笔输入法 (http://www.pinyinjoe.com/linux/ubuntu-12-chinese-setup.htm)
 
 Sublime Text 3 (https://www.simonewebdesign.it/how-to-install-sublime-text-3-on-debian/ & http://appnee.com/sublime-text-3-universal-license-keys-collection-for-win-mac-linux/ , http://askubuntu.com/questions/396938/how-do-i-make-sublime-text-3-the-default-text-editor)
+
+Notepadqq (notepad++ linux的版本，https://itsfoss.com/notepad-alternatives-for-linux/)
 
 GET Root Permission on GUI operation (Press Alt + F2 to run a command and then enter "gksu nautilus" (using gksu is the recommended way to open GUI's with root permissions). There's a nautilus script that allows you to open a directory as root, look for nautilus-gksu on your repositories.)
 
