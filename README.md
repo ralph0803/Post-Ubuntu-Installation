@@ -107,5 +107,3 @@ pulse secure client (本目录有PDF指导文档)
 GUVCviewer (http://guvcview.sourceforge.net/downloads.html, http://ubuntuhandbook.org/index.php/2014/03/how-to-change-an-application-icon-in-ubuntu-unity-tips/)
 
 安装yandex browser （但要注意，安装过后，要把/usr/lib/chromium-browser/libffmpeg.so 拷贝覆盖至 /opt/yandex/browser-beta/lib/下去，这样video playing的问题就可以解决了）
-
-Markdown在浏览器的显示（要在chrome或者chrome内核的浏览器中安装markdown view plus这个插件，蓝底黑色M字样，然后要在它的选项内，把"允许本地文件URL"这一个选项开启，才可以正常显示本地的md文件。）
