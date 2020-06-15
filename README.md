@@ -100,7 +100,7 @@ PDFSam
 
 Vidcutter
 
-gparted
+gparted nfts-3g
 
 pulse secure client (本目录有PDF指导文档)
 
