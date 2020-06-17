@@ -16,6 +16,7 @@ sudo systemctl start xrdp
 
 现在你应该可以使用Windows自带的远程桌面工具来连接到Linux系统了。
 
+---
 
 ### ssh重新开启
 ```bash
