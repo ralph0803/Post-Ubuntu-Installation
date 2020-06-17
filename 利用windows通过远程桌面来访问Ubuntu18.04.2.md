@@ -1,0 +1,17 @@
+### xrdp
+
+% https://www.jianshu.com/p/f60cec98eccd
+
+这就需要xrdp来帮助我们了。它是一个RDP服务端，可以让我们用远程桌面方式登录到Linux系统。
+
+首先要安装xrdp。
+```bash
+sudo apt install xrdp
+```
+然后启动xrdp服务。
+```bash
+sudo systemctl enable xrdp
+sudo systemctl start xrdp
+```
+
+现在你应该可以使用Windows自带的远程桌面工具来连接到Linux系统了。
