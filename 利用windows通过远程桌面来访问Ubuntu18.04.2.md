@@ -1,6 +1,6 @@
 ### xrdp
 
-% https://www.jianshu.com/p/f60cec98eccd
+https://www.jianshu.com/p/f60cec98eccd
 
 这就需要xrdp来帮助我们了。它是一个RDP服务端，可以让我们用远程桌面方式登录到Linux系统。
 
