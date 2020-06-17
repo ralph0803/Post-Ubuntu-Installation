@@ -1,4 +1,4 @@
-### xrdp
+### xrdp （这种方法在18.04.2上面不行，有bug）
 
 https://www.jianshu.com/p/f60cec98eccd
 
