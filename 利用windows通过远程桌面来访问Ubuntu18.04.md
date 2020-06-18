@@ -14,7 +14,7 @@ sudo systemctl enable xrdp
 sudo systemctl start xrdp
 ```
 
-现在你应该可以使用Windows自带的远程桌面工具来连接到Linux系统了。
+现在应该可以使用Windows自带的远程桌面工具来连接到Linux系统了。
 
 ---
 
