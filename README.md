@@ -1,4 +1,4 @@
-# Post-Ubuntu16.04-Installation
+# Post-Ubuntu-Installation
 
 小写为代码直接安装，大写为要看教程安装
 
