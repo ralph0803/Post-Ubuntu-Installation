@@ -8,6 +8,8 @@ sudo apt-get update
 
 unity tweak tool (via software center)
 
+git
+
 gdebi (这样就能 sudo gdebi ANY-DEB-FILE)
 
 Dropbox (dropbox.com) & Mega (mega.co.nz)
