@@ -14,9 +14,11 @@ sudo systemctl enable xrdp
 sudo systemctl start xrdp
 ```
 
-#### 18.04.1的话，需要xrdp 0.9.5-1和xorgxrdp 0.9.5-1两个包来安装，其它方式不行
-
 现在应该可以使用Windows自带的远程桌面工具来连接到Linux系统了。
+
+---
+
+#### 18.04.1的话，需要xrdp 0.9.5-1和xorgxrdp 0.9.5-1两个包来安装，其它方式不行
 
 ---
 
